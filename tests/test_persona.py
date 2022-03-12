@@ -1,7 +1,7 @@
 import unittest
 import datetime
 from src.logica.persona import Persona
-
+import numpy
 
 class PersonaTestCase(unittest.TestCase):
 
